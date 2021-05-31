@@ -1,2 +1,1 @@
-# CourseraHW
-gdgdgd
+# Coursera Assignments
